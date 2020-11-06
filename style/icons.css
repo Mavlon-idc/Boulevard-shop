@@ -1,0 +1,23 @@
+.icon-search::before {
+    content: '\f002';
+    font-weight: 300;
+}
+
+.icon-basket::before {
+    content: '\f290';
+    font-weight: 300;
+}
+
+.icon-master::before {
+    content: '\f1f1';
+}
+
+.icon-visa::before {
+    content: '\f1f0';
+}
+
+.icon-link::before {
+    content: '\f08e';
+    font-weight: 300;
+}
+
